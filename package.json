@@ -50,7 +50,8 @@
     "react-static-tweets": "^0.2.6",
     "react-use": "^15.3.3",
     "static-tweets": "^0.2.7",
-    "use-dark-mode": "^2.3.1"
+    "use-dark-mode": "^2.3.1",
+    "vercel": "^21.3.3"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^10.0.5",
